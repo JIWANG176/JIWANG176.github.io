@@ -9,10 +9,10 @@ google-ID: ''
 menu: 
   - name: Notable Achievements
     submenu:
-      - name: MicroBam
-        link: /projects/microbam
-      - name: OurLegacy
-        link: /projects/ourlegacy
+      - name: Protein marker
+        link: /projects/protein
+      - name: Epilepsy detection
+        link: /projects/aeeg
   - name: Home
     link: /home
   - name: Posts
