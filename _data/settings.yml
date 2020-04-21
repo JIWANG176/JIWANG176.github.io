@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu: 
-  - name: Featured Projects
+  - name: Notable Achievements
     submenu:
       - name: MicroBam
         link: /projects/microbam
