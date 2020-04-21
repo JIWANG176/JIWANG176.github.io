@@ -1719,7 +1719,6 @@ h3:before {
 
 	body, input, select, textarea {
 		font-size: 13pt;
-		font-weight: 300;
 		line-height: 1.65;
 	}
 
@@ -1771,9 +1770,6 @@ h3:before {
 		text-decoration: none;
 	}
 
-	strong, b {
-		font-weight: 700;
-	}
 
 	em, i {
 		font-style: italic;
@@ -1784,7 +1780,6 @@ h3:before {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 700;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
 	}
@@ -2002,7 +1997,6 @@ h3:before {
 		border: 0;
 		cursor: pointer;
 		display: inline-block;
-		font-weight: 700;
 		height: 2.85em;
 		line-height: 2.95em;
 		padding: 0 1.5em;
@@ -2329,7 +2323,6 @@ h3:before {
 	label {
 		display: block;
 		font-size: 0.9em;
-		font-weight: 700;
 		margin: 0 0 1em 0;
 	}
 
@@ -2371,7 +2364,6 @@ h3:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
 			font-style: normal;
-			font-weight: normal;
 			text-transform: none !important;
 		}
 
@@ -2423,7 +2415,6 @@ h3:before {
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
-			font-weight: 300;
 			padding-left: 2.4em;
 			padding-right: 0.75em;
 			position: relative;
@@ -2434,7 +2425,6 @@ h3:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
 				font-style: normal;
-				font-weight: normal;
 				text-transform: none !important;
 			}
 
@@ -2568,7 +2558,6 @@ h3:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
 			font-style: normal;
-			font-weight: normal;
 			text-transform: none !important;
 		}
 
@@ -2819,7 +2808,6 @@ h3:before {
 
 		dl dt {
 			display: block;
-			font-weight: 700;
 			margin: 0 0 1em 0;
 		}
 
@@ -2927,7 +2915,6 @@ h3:before {
 
 		table th {
 			font-size: 0.9em;
-			font-weight: 700;
 			padding: 0 0.75em 0.75em 0.75em;
 			text-align: left;
 		}
@@ -3557,7 +3544,6 @@ h3:before {
 				}
 
 			#header > .logo span {
-				font-weight: 300;
 				font-size: .8em;
 				color: #FFF;
 			}
@@ -3588,7 +3574,6 @@ h3:before {
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
 					font-style: normal;
-					font-weight: normal;
 					text-transform: none !important;
 				}
 
@@ -3768,7 +3753,7 @@ h3:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
 				font-style: normal;
-				font-weight: normal;
+
 				text-transform: none !important;
 			}
 
