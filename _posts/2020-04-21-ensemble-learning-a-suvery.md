@@ -15,6 +15,7 @@ and combining their predictions. This paper introduce the concept of
 ensemble learning, reviews traditional, novel and state-ofthe-art 
 ensemble methods and discusses current challenges and trends in the field.
 <!--more-->
+
 &nbsp;
 ## Introduction
 Ensemble learning is an umbrella term for methods that combine multiple inducers to make a decision, typically in supervised machine learning tasks. An inducer, also referred as a base-learner, is an algorithm that takes a set of labeled examples as input and produces a model (e.g., a classifier or regressor) that generalizes these examples. By using the produced model, predictions can be drawn for new unlabeled examples. An ensemble inducer can be of any type of machine learning algorithm (e.g., decision tree, neural network, linear regression model, etc.). The main premise of ensemble learning is that by combining multiple models, the errors of a single inducer will likely be compensated by other inducers, and as a result, the
