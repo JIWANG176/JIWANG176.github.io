@@ -4933,7 +4933,7 @@ sup {
 .header-icons .icon {
     height: 20px;
     padding: 10px;
-    border-radius: 50%;
+    border-radius: 60%;
     transition: all .5s;
     width: 20px;
     font-size: 20px;
@@ -4972,7 +4972,7 @@ sup {
     position: absolute;
     -webkit-transform-style: preserve-3d;
     transform-style: preserve-3d;
-    top: 50%;
+    top: 30%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
