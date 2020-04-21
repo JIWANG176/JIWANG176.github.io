@@ -4931,13 +4931,13 @@ sup {
 }
 
 .header-icons .icon {
-    height: 20px;
-    padding: 10px;
+    height: 30px;
+    padding: 20px;
     border-radius: 60%;
     transition: all .5s;
-    width: 20px;
+    width: 30px;
     font-size: 20px;
-    margin: 5px;
+    margin: 7px;
     border: 2px solid #fff
 }
 
