@@ -4863,7 +4863,7 @@ sup {
     left: 50%;
     margin: 0 auto;
     -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%)
+    transform: translate(-50%, -100%)
 }
 
 .header .site-title {
@@ -4931,13 +4931,13 @@ sup {
 }
 
 .header-icons .icon {
-    height: 30px;
-    padding: 20px;
-    border-radius: 60%;
+    height: 80%;
+    padding: 7px;
+    border-radius: 50%;
     transition: all .5s;
-    width: 30px;
+    width: 80%;
     font-size: 20px;
-    margin: 7px;
+    margin: 5px;
     border: 2px solid #fff
 }
 
@@ -4949,10 +4949,10 @@ sup {
 
 @media only screen and (min-width:768px) {
     .header-icons .icon {
-        width: 80px;
-        height: 30px;
-        font-size: 30px;
-        line-height: 0px
+        width: 45px;
+        height: 45px;
+        font-size: 28px;
+        line-height: normal
     }
 }
 
@@ -4975,9 +4975,9 @@ sup {
     top: 30%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -100%);
     width: 100px;
-    height: 100px;
+    height: 200px;
     fill: #fff;
     -webkit-animation: pulse 1.3s infinite;
     animation: pulse 1.3s infinite

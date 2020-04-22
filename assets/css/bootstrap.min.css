@@ -1616,17 +1616,17 @@ h6 .small,
 
 h1,
 .h1 {
-    font-size: 56px
+    font-size: 50px
 }
 
 h2,
 .h2 {
-    font-size: 45px
+    font-size: 40px
 }
 
 h3,
 .h3 {
-    font-size: 34px
+    font-size: 30px
 }
 
 h4,
@@ -6221,9 +6221,9 @@ a.badge:focus {
 }
 
 .jumbotron {
-    padding-top: 30px;
-    padding-bottom: 30px;
-    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    margin-bottom: 40px;
     color: inherit;
     background-color: #f9f9f9
 }
