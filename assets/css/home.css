@@ -4863,7 +4863,13 @@ sup {
     left: 50%;
     margin: 0 auto;
     -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -100%)
+    transform: translate(-50%, -50%)
+}
+
+@media only screen and (min-width: 768px) {
+    .header {
+        top: 18%;
+    }
 }
 
 .header .site-title {
@@ -4958,7 +4964,7 @@ sup {
 
 .down {
     position: absolute;
-    bottom: 50%;
+    bottom: 60%;
     width: 100%;
     margin: 0 auto;
     display: block;
@@ -4975,12 +4981,18 @@ sup {
     top: 30%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -100%);
+    transform: translate(-50%, -50%);
     width: 100px;
     height: 200px;
     fill: #fff;
     -webkit-animation: pulse 1.3s infinite;
     animation: pulse 1.3s infinite
+}
+
+@media only screen and (min-width:768px) {
+    .down .icon {
+        transform: translate(-50%, -400%);
+    }
 }
 
 .down .icon:active,
