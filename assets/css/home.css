@@ -4859,7 +4859,7 @@ sup {
     text-align: center;
     color: #fff;
     position: absolute;
-    top: 18%;
+    top: 13%;
     left: 50%;
     margin: 0 auto;
     -webkit-transform: translate(-50%, -50%);
@@ -4981,7 +4981,7 @@ sup {
     top: 30%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -100%);
+    transform: translate(-50%, -150%);
     width: 100px;
     height: 200px;
     fill: #fff;
