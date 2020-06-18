@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'jiwang'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+google-ID: 'UA-169909470-1'
 
 menu: 
   - name: Featured Projects
@@ -16,7 +16,7 @@ menu:
   - name: Home
     link: /
   - name: Posts
-    link: /home
+    link: /posts
   - name: Tags
     link: /tags
   - name: About
