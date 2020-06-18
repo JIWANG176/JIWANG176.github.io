@@ -25,7 +25,7 @@ comments: true
 </div>
 
 <div class="list-group">
-	{% for post in paginator.posts %} 
+	{% for post in site.posts %} 
 	<div class="list-group-item">
 	<a href="{{ post.url }}">
 		<h4 class="list-group-item-heading">{{ post.title }}</h4>
