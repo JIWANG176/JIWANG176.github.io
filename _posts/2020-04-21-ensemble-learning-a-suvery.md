@@ -24,7 +24,7 @@ Ensemble learning is an umbrella term for methods that combine multiple inducers
 Ensemble learning refers to the generation and combination of multiple inducers to solve a particular machine learning task. The intuitive explanation for the ensemble methodology stems from human nature and the tendency to gather different opinions and weigh and combine them to make a complex decision. The main idea is that weighing and aggregating several individual opinions will be better than choosing the opinion of one individual. 
 
 ### Why ensemble methods work?
-There are several reasons why ensemble methods often **improve predictive performance* (Dietterich, 2002; Polikar, 2006):
+There are several reasons why ensemble methods often **improve predictive performance** (Dietterich, 2002; Polikar, 2006):
 
 - **Overfitting avoidance**: When just a small amount of data is available, a learning algorithm is prone to finding many different hypothesis that predict all of the training data perfectly while making poor predictions for unseen instances. Averaging different hypothesis reduces the risk of choosing an incorrect hypothesis and therefore, improves the overall predictive performance.
 
