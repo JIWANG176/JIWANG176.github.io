@@ -15,8 +15,8 @@ menu:
         link: /projects/aeeg
   - name: Home
     link: /
-  - name: Posts
-    link: /posts
+  - name: Post
+    link: /post
   - name: Tags
     link: /tags
   - name: About
