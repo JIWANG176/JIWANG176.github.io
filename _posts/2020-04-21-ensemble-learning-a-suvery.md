@@ -3,7 +3,7 @@ layout: default
 title: "Ensemble learning: Review and summary"
 date: 2020-04-21 13:00:00 +0200
 published: 2020-04-21 13:00:00 +0200
-comments: false
+comments: true
 categories: development
 tags: [Machine learning, Ensemble learning]
 github: "https://github.com/JIWANG176"
