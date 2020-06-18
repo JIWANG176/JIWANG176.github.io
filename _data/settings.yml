@@ -1,7 +1,7 @@
 # Change 'comments' to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: ''
+  comments: true
+  disqus_shortname: 'jiwang'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ''
@@ -14,9 +14,9 @@ menu:
       - name: Epilepsy detection
         link: /projects/aeeg
   - name: Home
-    link: /home
-  - name: Posts
     link: /
+  - name: Posts
+    link: /home
   - name: Tags
     link: /tags
   - name: About
