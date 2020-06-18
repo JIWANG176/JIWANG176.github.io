@@ -16,7 +16,7 @@ menu:
   - name: Home
     link: /
   - name: Posts
-    link: /home
+    link: /posts
   - name: Tags
     link: /tags
   - name: About
